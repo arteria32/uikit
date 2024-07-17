@@ -1,5 +1,12 @@
 # Changelog
 
+## [6.22.0](https://github.com/gravity-ui/uikit/compare/v6.21.0...v6.22.0) (2024-07-17)
+
+
+### Features
+
+* **AvatarStack:** add component ([#924](https://github.com/gravity-ui/uikit/issues/924)) ([862f4fb](https://github.com/gravity-ui/uikit/commit/862f4fbbaca8d431f0562965b3cad56e21b7130c))
+
 ## [6.21.0](https://github.com/gravity-ui/uikit/compare/v6.20.1...v6.21.0) (2024-07-16)
 
 
